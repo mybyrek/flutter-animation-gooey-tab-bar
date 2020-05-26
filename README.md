@@ -1,8 +1,8 @@
-# Gooey Tab Bar Flutter
-Flutter component concept created with [Flutter](https://flutter.dev/) using Dart programming language, inspired by [Gooey Tab Bar](https://dribbble.com/shots/6233130-Gooey-Tab-Bar). 
+# Flutter animation challenge 7 - Gooey tab bar
+> Creator: Qani Ajdini
 
 ## About
-This component was created inspired by the GIF at the end of this page. The component is using Animations, Clip Path, Transform and Stream's with RxDart proprieties to better simulate the inspiration GIF.
+The component is using Animations, Clip Path, Transform and Stream's with RxDart proprieties.
 
 ### The Constructor Data Fields
 ````dart
@@ -15,12 +15,10 @@ final Color background; // Background color
 final List<IconButton> iconButtons; //Tab bar icons
 ````
     
-### The Inspiration
-The GIF below shows the inspiration component.
+### Design
 
-![App Running](./docs/inspiration.gif)
+![Design](./docs/inspiration.gif)
 
-### The App
-The GIF below shows this current component running.
+### Implementation
 
-![App Running](./docs/app_running.gif)
+![Implementation](./docs/app_running.gif)
