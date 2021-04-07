@@ -1,5 +1,4 @@
 # Flutter animation challenge 7 - Gooey tab bar
-> Creator: Qani Ajdini
 
 ## About
 The component is using Animations, Clip Path, Transform and Stream's with RxDart proprieties.
